@@ -1,0 +1,7 @@
+{
+  "vendor": true,
+  "lock": false,
+  "tasks": {
+    "dev": "deno run -a foo.ts"
+  }
+}
